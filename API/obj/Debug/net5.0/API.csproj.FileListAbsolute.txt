@@ -62,3 +62,6 @@ D:\BACKUP DANYCH\Kursy\.Net\DatingAppCourse\API\bin\Debug\net5.0\System.Identity
 D:\BACKUP DANYCH\Kursy\.Net\DatingAppCourse\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\BACKUP DANYCH\Kursy\.Net\DatingAppCourse\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\BACKUP DANYCH\Kursy\.Net\DatingAppCourse\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BACKUP DANYCH\Kursy\.Net\DatingAppCourse\API\bin\Debug\net5.0\Data\UserSeedData.json
+D:\BACKUP DANYCH\Kursy\.Net\DatingAppCourse\API\bin\Debug\net5.0\AutoMapper.dll
+D:\BACKUP DANYCH\Kursy\.Net\DatingAppCourse\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
