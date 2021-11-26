@@ -1885,11 +1885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BACKUP DANYCH\\Kursy\\.Net\\DatingAppCourse\\API\\API.csproj",
+      "projectUniqueName": "C:\\BACKUP DANYCH\\Kursy\\.Net\\DatingAppCourse\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\BACKUP DANYCH\\Kursy\\.Net\\DatingAppCourse\\API\\API.csproj",
+      "projectPath": "C:\\BACKUP DANYCH\\Kursy\\.Net\\DatingAppCourse\\API\\API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\BACKUP DANYCH\\Kursy\\.Net\\DatingAppCourse\\API\\obj\\",
+      "outputPath": "C:\\BACKUP DANYCH\\Kursy\\.Net\\DatingAppCourse\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
